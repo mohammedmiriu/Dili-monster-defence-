@@ -1,0 +1,6 @@
+{
+  "name": "Monster Survival - Dark Fantasy Action",
+  "description": "Survive against relentless hordes of mythical monsters in a dark fantasy top-down arena. Level up, unlock elemental powers, and defeat terrifying bosses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
